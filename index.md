@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Morbus Reborn
 
-You can use the [editor on GitHub](https://github.com/MorbusReborn/MorbusRebornWebpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the project page for Morbus Reborn. Currently we are under development. If you wish to know more, or join our development team, please join our [discord!](https://discord.gg/kRUjxh5)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Morbus?
+Morbus is similar to TTT, Among Us, Warcraft's Parasite, Unfortunate Spacemen and Mafia. It is a deception style game set in space.  Your objective as a human is to find the 'imposter', brood aliens disguised as humans while fending off aliens. 
 
-### Markdown
+Alternatively, as a brood alien, your objective is to find weak points in the human groups and strike when the time is right, attempting to convert all humans to your side. As a swarm alien, your job is to harass humans and absorb bullets for the brood aliens. You are weak alone, but in numbers, you are dangerous. **For the hive!**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MorbusReborn/MorbusRebornWebpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Servers hosting Morbus
+* Name: XenoGamers.com
+  * IP: 192.223.30.49:27015
+* Name: TectonicGaming.com
+  * IP: 64.94.101.33:27015
