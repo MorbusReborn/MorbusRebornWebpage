@@ -12,3 +12,5 @@ Alternatively, as a brood alien, your objective is to find weak points in the hu
   * IP: 192.223.30.49:27015
 * Name: TectonicGaming.com
   * IP: 64.94.101.33:27015
+* Name: XMP Morbus
+  * IP: 74.91.113.159:27789
